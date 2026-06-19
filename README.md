@@ -3,12 +3,11 @@
 </div>
 
 <p align="center">
-  <b>Software Engineering Undergraduate @ UUM | KitaHack 2026 Champion</b><br>
-  Full-Stack Developer passionate about building scalable real-time systems and clean SaaS interfaces.
+  <b>🎓 Software Engineering @ UUM | 🏆 KitaHack 2026 Champion</b><br>
+  Full-Stack Developer passionate about building scalable AI systems and clean SaaS interfaces.
 </p>
 
 <div align="center">
-  <!-- Minimalist social badges -->
   <a href="mailto:gsinrou@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -19,65 +18,21 @@
 
 <br>
 
-### 🧑‍💻 About Me
-- **Education:** Bachelor of Science in Information Technology (Software Engineering) at Universiti Utara Malaysia
-- **Achievement:** Champion of KitaHack 2026
-- **Focus:** Full-stack development, AI integration, and data-driven solutions
-- **I enjoy:** Clean code, system optimization, and professional UI/UX design
-
-<br>
-
-### 🛠️ Technical Skills
-<p align="left">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Frameworks & UI:</b><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Tools, Database & DevOps:</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<h3 align="center">🛠️ Core Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 <br>
-
-### 🚀 Highlighted Projects
-<table>
-  <tr>
-    <td width="35%" valign="top">
-      <b>Assistive Communication System</b><br>
-      <i>KitaHack 2026 Champion</i>
-    </td>
-    <td width="65%" valign="top">
-      A low-latency communication system for ALS patients, built under 24 hours.<br><br>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00B4EB?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlebard&logoColor=white" /><br><br>
-      <b>Features:</b> Real-time eye-tracking navigation (EAR formula), context-aware predictive text.
-    </td>
-  </tr>
-  <tr>
-    <td width="35%" valign="top">
-      <b>AI-Powered Career Guidance System</b><br>
-      <i>Full-Stack Application</i>
-    </td>
-    <td width="65%" valign="top">
-      An intelligent career roadmap platform generating highly personalized professional guidance.<br><br>
-      <b>Tech:</b> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" /><br><br>
-      <b>Features:</b> Robust LLM routing, secure user data management, modern frontend interface.
-    </td>
-  </tr>
-</table>
